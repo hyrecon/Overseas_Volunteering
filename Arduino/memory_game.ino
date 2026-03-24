@@ -1,10 +1,3 @@
-/**
-   Simon Game for Arduino
-
-   Copyright (C) 2016, Uri Shaked
-
-   Released under the MIT License.
-*/
 #include <LiquidCrystal.h>
 #define NOTE_G3 196
 #define NOTE_C4 262
