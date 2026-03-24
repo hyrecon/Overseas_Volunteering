@@ -1,4 +1,3 @@
-
 #define soilMoisture A1 // pin number of soil moisture sensor
 #define photoresistor A0 // pin number of photoresistor
 #define waterPump 13 // pin number of water pump
