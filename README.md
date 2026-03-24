@@ -1,6 +1,6 @@
 # 🌏 3D Printing & Arduino Education Program
 
-> PNU 31st Overseas Volunteer Group — Chonburi, Thailand
+> PNU 31st Overseas Volunteer Group — Ratchaburi, Thailand
 
 ## 📌 About
 
