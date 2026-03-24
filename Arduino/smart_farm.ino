@@ -1,8 +1,3 @@
-/**
-   Smart farm for Arduino
-   Copyright (C) 2023, Yeo Ji Su
-   Released under the MIT License.
-*/
 
 #define soilMoisture A1 // pin number of soil moisture sensor
 #define photoresistor A0 // pin number of photoresistor
