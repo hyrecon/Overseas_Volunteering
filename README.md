@@ -24,8 +24,8 @@ Example models from [Thingiverse](https://www.thingiverse.com/)
 Tools: `Tinkercad` · `Fusion 360`
 
 Students designed their own 3D models using Tinkercad:
-1. Octopus
-2. BWO
+1. BWO
+2. Octopus
 
 ### 3D Pen Maker
 
@@ -35,7 +35,7 @@ Hands-on session using 3D pens for freeform creation.
 
 ## ⚡ Arduino Coding
 
-Tools: `Arduino UNO` · `Arduino IDE 2.0.3` · `Tinkercad`
+Tools: `Arduino` · `C++` · `Tinkercad`
 
 Students built circuits using Tinkercad, then wired them on real hardware:
 1. LED blink
